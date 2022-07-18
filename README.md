@@ -28,7 +28,7 @@
 #
 ### `Получение сообщения `
  
-![userMessage](gifs/message.gif
+![userMessage](gifs/message.gif)
 #
 ### `Получение согласия на обработку `
  
